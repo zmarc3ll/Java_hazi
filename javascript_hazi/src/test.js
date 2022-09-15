@@ -1,4 +1,6 @@
 import { hozzaad, atlag } from "./lista";
 
-hozzaad();
+hozzaad(12);
+hozzaad(10);
+hozzaad(-5);
 atlag();
