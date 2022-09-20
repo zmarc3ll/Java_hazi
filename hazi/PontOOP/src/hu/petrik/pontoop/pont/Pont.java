@@ -78,7 +78,6 @@ public class Pont {
         }
         return siknegyedszoveges;
     }
-
     @Override //alt+insert
     public String toString() {
         // return "(" + x +"," + y +')';
